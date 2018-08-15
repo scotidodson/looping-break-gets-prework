@@ -1,5 +1,5 @@
 
-def levitation_quiz
+#def levitation_quiz
 	#your code here
 end
 
